@@ -1,0 +1,2 @@
+pygame实现2048
+同时用到py2exe将py转为exe
