@@ -1,2 +1,2 @@
-pygame实现2048
-同时用到py2exe将py转为exe
+pygame瀹炵幇2048
+鍚屾椂鐢ㄥ埌py2exe灏唒y杞负exe
